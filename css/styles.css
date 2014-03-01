@@ -1,0 +1,8 @@
+h1 {
+  text-align: center;
+}
+
+.table-responsive table {
+  height: 700px;
+  width: 700px;
+}
